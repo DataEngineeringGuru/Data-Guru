@@ -1,6 +1,6 @@
 # [Data Science Portfolio One Project overview](https://github.com/DataEngineeringGuru/Data-Science-Portfolio-One)
 
-* Steps for setting up the website:
+## Steps for setting up the website:
 * Create a github account
 * Make a new github repo and initialize the readme
 * Go to settings 
