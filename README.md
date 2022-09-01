@@ -17,7 +17,7 @@
 * This is the underlying model for building something with those capabilities. 
 * I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. 
 * To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-![alt text](https://github.com/PlayingNumbers/ball_image_classifier/blob/master/matrix_results.png)
+![]( "matrix results")
 
 
 # [Project Two Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
@@ -27,6 +27,6 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![]( "Salary by Position")
+![]( "Job Opportunities by State")
+![]( "Correlations")
