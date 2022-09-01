@@ -29,4 +29,4 @@
 
 ![]( "Salary by Position")
 ![]( "Job Opportunities by State")
-![]( "Correlations")
+![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
