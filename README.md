@@ -45,3 +45,8 @@ It can be extremely valuable to have a data science portfolio, showcasing your s
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/salary_by_job_title.png "Salary by Position")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/positions_by_state.png "Job Opportunities by State")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
+
+### Resources you can use:
+![]("Link to a Markdown Cheat Sheet:" https://www.markdownguide.org/cheat-sheet/)
+![]("Github Repo:" https://github.com/PlayingNumbers/Ken...)
+![]("Github Pages Details:" https://pages.github.com/)
