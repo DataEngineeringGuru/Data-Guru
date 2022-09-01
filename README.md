@@ -28,5 +28,5 @@
 * Built a client facing API using flask 
 
 ![]( "Salary by Position")
-![](  "Job Opportunities by State")
+![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/positions_by_state.png "Job Opportunities by State")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
