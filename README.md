@@ -6,8 +6,8 @@
 * Go to settings 
 * Go to GitHub pages and select master branch
 * Select theme if you would like
-* Go to the link at the top of the github pages secion 
-* make any changes you would like to the markdown of the readme to get your content
+* Go to the link at the top of the github pages section 
+* Make any changes you would like to the markdown of the readme to get your content
 * You now have a data science portfolio website!
 * Note This is inspired fron a tutorial: How to Make a Data Science Portfolio by KenJee The Data Professor. 
 
