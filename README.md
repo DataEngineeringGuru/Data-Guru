@@ -1,5 +1,9 @@
 # [Data Science Portfolio One Project overview](https://github.com/DataEngineeringGuru/Data-Science-Portfolio-One)
-
+In this repository I demonstrate how you can quickly build a data science portfolio website using github pages. 
+It can be extremely valuable to have a data science portfolio, showcasing your skills and cretavity to potential employers. Your GitHub website created using Gitpage can house links to all of your project repositories, allowing prospective employers or others to view all of your projects from one source.
+#### Most recruiters don't have time or the ability to sift through your whole github repo. A website shows that you can convey information effectively and that you are straight to the point. 
+#### This project is inspired by The Data Professor Ken Jee.
+  
 ## Steps for setting up the website:
 1.  Create a github account
 2.  Make a new github repo and initialize the readme
@@ -10,6 +14,17 @@
 7.  Make any changes you would like to the markdown of the readme to get your content
 8.  You now have a data science portfolio website!
 9.  Note This is inspired fron a tutorial: How to Make a Data Science Portfolio by KenJee The Data Professor. 
+10. You should try to have at min four links to your data science project work repos, the following is a list some of must haves:
+    1. Classification
+    2. Regression
+    3. Clustering
+    4. Deep Learning
+    5. NLP or Computer Vision Project.
+ The Data Professor reccommends you have as many as is possible.
+ Finally: try showcasing unique and interesting insights, develop your own models to generate these unique insights from relevant data sets.
+ Best of luck and most of all enjoy the process.
+ Again credits to The Data Professor Ken Jee!
+  
 
 # [Project One Ball Image Classifier Project Overview](https://github.com/PlayingNumbers/ball_image_classifier)
 * Data science project example using deep learning for image classification 
