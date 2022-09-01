@@ -27,6 +27,6 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![]( "Salary by Position")
+![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/salary_by_job_title.png "Salary by Position")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/positions_by_state.png "Job Opportunities by State")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
