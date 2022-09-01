@@ -1,15 +1,15 @@
 # [Data Science Portfolio One Project overview](https://github.com/DataEngineeringGuru/Data-Science-Portfolio-One)
 
 ## Steps for setting up the website:
-* Create a github account
-* Make a new github repo and initialize the readme
-* Go to settings 
-* Go to GitHub pages and select master branch
-* Select theme if you would like
-* Go to the link at the top of the github pages section 
-* Make any changes you would like to the markdown of the readme to get your content
-* You now have a data science portfolio website!
-* Note This is inspired fron a tutorial: How to Make a Data Science Portfolio by KenJee The Data Professor. 
+1.  Create a github account
+2.  Make a new github repo and initialize the readme
+3.  Go to settings 
+4.  Go to GitHub pages and select master branch
+5.  Select theme if you would like
+6.  Go to the link at the top of the github pages section 
+7.  Make any changes you would like to the markdown of the readme to get your content
+8.  You now have a data science portfolio website!
+9.  Note This is inspired fron a tutorial: How to Make a Data Science Portfolio by KenJee The Data Professor. 
 
 # [Project One Ball Image Classifier Project Overview](https://github.com/PlayingNumbers/ball_image_classifier)
 * Data science project example using deep learning for image classification 
