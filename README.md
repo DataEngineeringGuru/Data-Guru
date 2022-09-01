@@ -1,14 +1,14 @@
-# Data Science Portfolio One: Project Overview 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [Data Science Portfolio One. Project overview](https://github.com/DataEngineeringGuru/Data-Science-Portfolio-One)
+* Steps for setting up the website:
+* Create a github account
+* Make a new github repo and initialize the readme
+* Go to settings 
+* Go to GitHub pages and select master branch
+* Select theme if you would like
+* Go to the link at the top of the github pages secion 
+* make any changes you would like to the markdown of the readme to get your content
+* You now have a data science portfolio website!
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
