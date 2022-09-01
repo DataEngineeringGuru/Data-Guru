@@ -11,7 +11,7 @@
 * You now have a data science portfolio website!
 * Note This is inspired fron a tutorial: How to Make a Data Science Portfolio by KenJee The Data Professor. 
 
-# Ball Image Classifier(Source Ken Jee The Data Professor)
+# Project One Ball Image Classifier 
 Data science project example using deep learning for image classification 
 
 ## Overview 
@@ -23,11 +23,3 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 ## Notes
 This notebook takes you through the process of creating an image classifer for various types of sports balls. It is the notebook that I use in the youtube video linked below. It is based of the [fastai lesson two notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb). 
-
-## Config
-I recommend using google colab for this project as it makes the gpu configuration far easier. In google colab make sure that you go to runtime -> change runtime type -> gpu. 
-
-In colab, running the code should create the folder structure that you need. Drag and drop the photos located [here](https://drive.google.com/open?id=12cDnAIntmAYZ2lXXyeOa_GWdU926FYLU) into their respective folders. Technically you could skip the the folder creation and just drag and drop the data from the google drive into the colab file destination
-
-## Data 
-I used the following chrome extension to download the data from google images. [FatKun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)
