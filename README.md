@@ -17,7 +17,7 @@
 * This is the underlying model for building something with those capabilities. 
 * I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. 
 * To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-![]( "matrix results")
+![](https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/matrix_results.png "matrix results")
 
 
 # [Project Two Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
@@ -28,5 +28,5 @@
 * Built a client facing API using flask 
 
 ![]( "Salary by Position")
-![]( "Job Opportunities by State")
+![](  "Job Opportunities by State")
 ![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
