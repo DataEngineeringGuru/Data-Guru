@@ -15,7 +15,7 @@ Your GitHub website is created using GitHub Gitpages allowing you to host links 
 * This is the underlying model for building something with those capabilities. 
 * I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. 
 * To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-![](https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/matrix_results.png "matrix results")
+![](/images/matrix_results.png "matrix results")
 
 
 ## [Project Two Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
@@ -26,9 +26,9 @@ Your GitHub website is created using GitHub Gitpages allowing you to host links 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/salary_by_job_title.png "Salary by Position")
-![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/positions_by_state.png "Job Opportunities by State")
-![]( https://github.com/DataEngineeringGuru/Data-Guru/blob/master/images/correlation_visual.png "Correlations")
+![](/images/salary_by_job_title.png "Salary by Position")
+![](/images/positions_by_state.png "Job Opportunities by State")
+![](/images/correlation_visual.png "Correlations")
 
 ## Steps for setting up the website:
 1.  Create a github account
